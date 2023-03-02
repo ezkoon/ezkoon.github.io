@@ -1,9 +1,9 @@
----ーー
+---
 layout: post
 title: "NEMOJI個人情報処理方針"
 date: 2023-02-05 19:28:26 +0900
 categories: jekyll update
----NEMOJI
+---
 
 # NEMOJI
 
